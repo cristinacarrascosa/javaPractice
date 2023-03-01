@@ -4,15 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/estructurasBasicas/PrimerEjemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="primer commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud2/Ejercicios/Ej10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud2/Ejercicios/Ej11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud2/Ejercicios/Ej13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud2/Ejercicios/Ej14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud2/Ejercicios/Ej16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud2/Ejercicios/Ej2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud2/Ejercicios/Ej3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud2/Ejercicios/Ej6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud2/Ejercicios/Ej7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/Ej11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/Ej16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/Ej23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/Ej6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/Ej9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +29,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -49,7 +60,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,6 +73,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676912188456</updated>
     </task>
+    <task id="LOCAL-00001" summary="primer commit">
+      <created>1676913571339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676913571339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
   </component>
 </project>
