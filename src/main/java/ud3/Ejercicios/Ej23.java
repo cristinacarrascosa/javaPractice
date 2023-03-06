@@ -12,32 +12,37 @@ public class Ej23 {
         double cuotaFinal;
 
         int edad;
-        boolean padres;
+        boolean padresSocios = false;
 
         Scanner listener = new Scanner(System.in);
         System.out.println("Introduce tu edad");
         edad = listener.nextInt();
-        System.out.println("----");
+        listener.nextLine();
+
 
         if( edad < 18){
-            System.out.println("¿Son tus padres socios?");
-            padres = listener.hasNextBoolean();
-            System.out.println();
-            if( padres == true){
-                System.out.println("Tu descuento es del 35%");
-                cuotaFinal =cuota - cuota * dtoMenores;
-            }else {
-                System.out.println("Tu descuento es del 25%");
-                cuotaFinal = cuota - cuota *dtoMenoresinPadres;
+            System.out.println("¿Son tus padres socios? s/n");
+            char c = listener.nextLine().charAt(0);
+            if( c == 's'){
+                padresSocios = true;
             }
-            System.out.println("Tu cuota final es de: "+cuotaFinal);
-        } else if ( edad > 65) {
-            System.out.println("Tu descuento es del 50%");
-            cuotaFinal = cuota - cuota * dtoMayores;
-            System.out.println("Tu cuota final es de: "+cuotaFinal);
-        } else {
-            System.out.println("No tienes ningún descuento, tu cuota es de: "+cuota);
         }
+
+        if( edad > 65) {
+            System.out.println("Obtienes dto del 50%");
+            cuotaFinal = cuota * dtoMayores;
+        } else if ( edad < 18 && padresSocios) {
+            System.out.println("Descuento del 35%");
+            cuotaFinal = cuota * dtoMenores;
+        } else if ( edad < 18 && !padresSocios) {
+            System.out.println("Descuento del 25%");
+            cuotaFinal = cuota * dtoMenoresinPadres;
+        } else {
+            System.out.println("Sin descuento");
+            cuotaFinal = cuota;
+        }
+
+        System.out.println("Cuota a pagar: "+cuotaFinal);
 
 
     }
