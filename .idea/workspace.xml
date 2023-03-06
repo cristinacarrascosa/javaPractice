@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="primer commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/EjemploVideo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/EjemplosString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/Ej23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/Ej23.java" afterDir="false" />
-    </list>
+    <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="primer commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
