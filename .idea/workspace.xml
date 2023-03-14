@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="primer commit" />
+    <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="primer commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej1/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej1/UsoCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej2/Paquete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej2/Sucursal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej2/Uso_Sucursal_y_Paquetes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej3/CuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej3/Uso_CuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej4ColegioAlumno/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej4ColegioAlumno/Colegio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej4ColegioAlumno/UsoColegio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/CalculoPotenciaJOptionPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/Ej1Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/Ej2Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/Ej3Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjBucleFor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjBucleFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjemploDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjemploWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjercicioWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/OperadorTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/RaizScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/Vid20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesAlpha/Ej16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesAlpha/Ej5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesAlpha/Ej6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +81,68 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.UsoColegio">
+    <configuration name="UsoColegio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pildorasinformaticas.POO.Ej4ColegioAlumno.UsoColegio" />
+      <module name="repasoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pildorasinformaticas.POO.Ej4ColegioAlumno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsoCuenta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pildorasinformaticas.POO.Ej1.UsoCuenta" />
+      <module name="repasoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pildorasinformaticas.POO.Ej1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uso_CuentaCorriente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pildorasinformaticas.POO.Ej3.Uso_CuentaCorriente" />
+      <module name="repasoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pildorasinformaticas.POO.Ej3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uso_Sucursal_y_Paquetes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pildorasinformaticas.POO.Ej2.Uso_Sucursal_y_Paquetes" />
+      <module name="repasoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pildorasinformaticas.POO.Ej2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UsoColegio" />
+        <item itemvalue="Application.Uso_CuentaCorriente" />
+        <item itemvalue="Application.Uso_Sucursal_y_Paquetes" />
+        <item itemvalue="Application.UsoCuenta" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,5 +165,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit" />
     <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjBucleFor2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjBucleFor2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
