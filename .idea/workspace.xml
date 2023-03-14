@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="primer commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej1/Cuenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej1/UsoCuenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej2/Paquete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej2/Sucursal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej2/Uso_Sucursal_y_Paquetes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej3/CuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej3/Uso_CuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej4ColegioAlumno/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej4ColegioAlumno/Colegio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Ej4ColegioAlumno/UsoColegio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/CalculoPotenciaJOptionPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/Ej1Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/Ej2Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/Ej3Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjBucleFor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjBucleFor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjemploDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjemploWhile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjercicioWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/OperadorTernario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/RaizScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/Vid20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesAlpha/Ej16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesAlpha/Ej5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesAlpha/Ej6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud3/Ejercicios/BuclesBeta/Ej7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <changelist_data name="cristinacarrascosa" email="cctausias@gmail.com" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="cristinacarrascosa &lt;cctausias@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -166,8 +140,26 @@
       <option name="project" value="LOCAL" />
       <updated>1678792930965</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="primer commit">
+      <created>1678792998255</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678792998255</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit" />
