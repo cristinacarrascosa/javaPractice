@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="a mitad de POO" />
+    <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="a mitad de POO">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Herencia/CadenaHerencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Herencia/UsoEmpleados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/eJ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/EjemplosString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/EjemplosString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,13 +70,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UsoColegio">
-    <configuration name="UsoColegio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pildorasinformaticas.POO.Ej4ColegioAlumno.UsoColegio" />
+  <component name="RunManager" selected="Application.Ej3">
+    <configuration name="Ej1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ud4.Ejercicios.Vectores.Ej1" />
       <module name="repasoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pildorasinformaticas.POO.Ej4ColegioAlumno.*" />
+          <option name="PATTERN" value="ud4.Ejercicios.Vectores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsoCuenta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pildorasinformaticas.POO.Ej1.UsoCuenta" />
+    <configuration name="Ej2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ud4.Ejercicios.Vectores.Ej2" />
       <module name="repasoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pildorasinformaticas.POO.Ej1.*" />
+          <option name="PATTERN" value="ud4.Ejercicios.Vectores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uso_CuentaCorriente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pildorasinformaticas.POO.Ej3.Uso_CuentaCorriente" />
+    <configuration name="Ej3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ud4.Ejercicios.Vectores.Ej3" />
       <module name="repasoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pildorasinformaticas.POO.Ej3.*" />
+          <option name="PATTERN" value="ud4.Ejercicios.Vectores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +110,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uso_Sucursal_y_Paquetes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pildorasinformaticas.POO.Ej2.Uso_Sucursal_y_Paquetes" />
+    <configuration name="Ej5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ud4.Ejercicios.String.Ej5" />
       <module name="repasoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pildorasinformaticas.POO.Ej2.*" />
+          <option name="PATTERN" value="ud4.Ejercicios.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ud4.Ejercicios.String.Ej9" />
+      <module name="repasoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ud4.Ejercicios.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,10 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UsoColegio" />
-        <item itemvalue="Application.Uso_CuentaCorriente" />
-        <item itemvalue="Application.Uso_Sucursal_y_Paquetes" />
-        <item itemvalue="Application.UsoCuenta" />
+        <item itemvalue="Application.Ej3" />
+        <item itemvalue="Application.Ej2" />
+        <item itemvalue="Application.Ej1" />
+        <item itemvalue="Application.Ej5" />
+        <item itemvalue="Application.Ej9" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678812937942</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="a mitad de POO">
+      <created>1678813472571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678813472571</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +221,56 @@
           <url>file://$PROJECT_DIR$/src/main/java/pildorasinformaticas/estructurasBasicas/EjBucleFor2.java</url>
           <line>11</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej8.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej8.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej8.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej8.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej8.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej8.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,4 +1,4 @@
-package ud4.Ejercicios;
+package ud4.Ejercicios.String;
 
 public class EjemplosString {
     public static void main(String[] args) {
