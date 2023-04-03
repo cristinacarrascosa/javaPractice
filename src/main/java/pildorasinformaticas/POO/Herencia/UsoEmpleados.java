@@ -10,7 +10,18 @@ public class UsoEmpleados {
         Jefes Ana = new Jefes("Ana", 2900, 2008, 5, 25);
         Ana.setIncentivo(250);
         System.out.println(Ana.getSueldo());
+        Empleados[] losEmpleados = new Empleados[5];
 
+        losEmpleados[0] = new Empleados("Amparo", 2500, 2020, 10, 5);
+        losEmpleados[1] = new Empleados("Silvia", 2900, 2019, 10, 5);
+        losEmpleados[2] = new Empleados("Clara", 2800, 2021, 10, 5);
+        losEmpleados[3] = new Empleados("Cristina", 2500, 2022, 10, 5);
+        losEmpleados[4] = Ana;
+
+        for (Empleados obj:
+             losEmpleados) {
+            System.out.println(obj.getDatosEmpleado()+ " y un salario de: "+obj.getSueldo());
+        }
 
 
     }

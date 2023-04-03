@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="a mitad de POO">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Herencia/CadenaHerencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Herencia/UsoEmpleados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/Ej9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/eJ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/EjemplosString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/String/EjemplosString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Herencia/UsoEmpleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Herencia/UsoEmpleados.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +31,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="421ebe37-e4b5-4bac-b6b3-9335310b992f" />
+        <option name="url" value="https://github.com/cristinacarrascosa/javaPractice.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2M0l4Fc3KsSSd16WLMF3sWMZTXM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,7 +64,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ej3">
+  <component name="RunManager" selected="Application.UsoEmpleados">
     <configuration name="Ej1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ud4.Ejercicios.Vectores.Ej1" />
       <module name="repasoJava" />
@@ -123,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ej9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ud4.Ejercicios.String.Ej9" />
+    <configuration name="UsoEmpleados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pildorasinformaticas.POO.Herencia.UsoEmpleados" />
       <module name="repasoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ud4.Ejercicios.String.*" />
+          <option name="PATTERN" value="pildorasinformaticas.POO.Herencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsoEmpleados" />
         <item itemvalue="Application.Ej3" />
         <item itemvalue="Application.Ej2" />
         <item itemvalue="Application.Ej1" />
         <item itemvalue="Application.Ej5" />
-        <item itemvalue="Application.Ej9" />
       </list>
     </recent_temporary>
   </component>
@@ -253,24 +247,24 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej7.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej7.java</url>
           <line>19</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java</url>
-          <line>16</line>
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej7.java</url>
+          <line>18</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java</url>
-          <line>13</line>
+          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej7.java</url>
+          <line>20</line>
           <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej3.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
