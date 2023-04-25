@@ -10,13 +10,28 @@ public class UsoEmpleados {
         Jefes Ana = new Jefes("Ana", 2900, 2008, 5, 25);
         Ana.setIncentivo(250);
         System.out.println(Ana.getSueldo());
-        Empleados[] losEmpleados = new Empleados[5];
+        Empleados[] losEmpleados = new Empleados[6];
 
         losEmpleados[0] = new Empleados("Amparo", 2500, 2020, 10, 5);
         losEmpleados[1] = new Empleados("Silvia", 2900, 2019, 10, 5);
         losEmpleados[2] = new Empleados("Clara", 2800, 2021, 10, 5);
         losEmpleados[3] = new Empleados("Cristina", 2500, 2022, 10, 5);
         losEmpleados[4] = Ana;
+        losEmpleados[5] = new Jefes("Isabel", 8000, 2007, 4, 2);
+
+        Jefes Isabel=(Jefes)losEmpleados[5]; //si no hacemos este casting no podemos usar los métodos de la clase jefes
+
+        Isabel.setIncentivo(500);
+
+
+
+
+
+
+      /*  Empleados Patricia = new Jefes("Paticicia", 2500, 2007, 5, 6);
+
+        //downcasting o casting explicíto
+        Jefes PatriciaDirectora = (Jefes)Patricia;*/
 
         for (Empleados obj:
              losEmpleados) {

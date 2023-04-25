@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56774e9d-2d40-4045-8041-4cad7ed2cbc6" name="Changes" comment="a mitad de POO">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ud4/Ejercicios/Vectores/Ej7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Herencia/UsoEmpleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pildorasinformaticas/POO/Herencia/UsoEmpleados.java" afterDir="false" />
     </list>
